@@ -1,0 +1,22 @@
+{
+    "name": "rench/installment",
+    "description": "Provides installment payment options for products",
+    "version": "1.0",
+    "type": "oxideshop-module",
+    "homepage": "https://github.com/rench993/EasePayInstallment",
+    "author": {
+        "name": "Rench dev",
+        "email": "kurkchi.vlad89@gmail.com",
+        "homepage": "https://github.com/rench993/EasePayInstallment"
+    },
+    "extra": {
+        "oxideshop": {
+            "target-directory": "rench/EasePayInstallment"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "rench\\EasePayInstallment\\": "../../../source/modules/rench/EasePayInstallment/"
+        }
+    }
+}
