@@ -1,5 +1,0 @@
-name: 'Installment Module Migrations (EasePayInstallment)'
-migrations_namespace: 'OxidEsales\rench\EasePayInstallment'
-table_name: 'oxmigrations_rench_installment'
-migrations_directory: 'data'
-
